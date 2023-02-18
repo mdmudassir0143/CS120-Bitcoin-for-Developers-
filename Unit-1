@@ -1,0 +1,19 @@
+1- The Bitcoin peer-to-peer network is a decentralized network of computers, or nodes, that communicate with each other to maintain the Bitcoin blockchain. Each node has a copy of the entire blockchain, and transactions are broadcast to the network and validated by the nodes through a consensus mechanism called proof-of-work. Nodes can connect to other nodes in the network directly, forming a mesh network without the need for a central server or authority.
+
+2- Nodes share, network data, their inventory of blockchain data, and transactions that they have validated
+
+3- Value is transferred via ledger entries called UTXOs
+
+4- Bitcoin does not use accounts but instead uses addresses. A transaction consumes one or more outputs from a previous transaction as input and creates new outputs.
+
+5- No one entity can control Bitcoin since a balance of power is maintained in the ecosystem. Miners have some control over what transactions are included in the chain. Developers write the software and decide what changes are included in the latest versions of Bitcoin. Node operators decide which transactions are valid and will be propagated throughout the network. Wallet makers decide which features they will include in their apps. And merchants decide which transactions they are willing to accept as payment for goods and services.
+
+6- No. Miners are not an organized group of people. Anyone, anywhere in the world who is willing to invest in a mining computer can be a miner.
+
+7- Bitcoin is considered to be an open blockchain because it is permission-less meaning that anyone, anywhere in the world can use it, and it is permissioned neutral meaning that the network will process any valid transaction regardless of sender receiver or content.
+
+8- The Bitcoin network is neutral meaning that it will process any technically valid transaction regardless of the identity of the sender or receiver, their location their political alliances, their demographics, etc.
+
+9- When it has been included in a block
+
+10- Bitcoin's are not actually coins rather they are ledger entries. These Bitcoins are transferred from one public address to another. All transactions on the Network are public and viewable via a blockchain explorer.
